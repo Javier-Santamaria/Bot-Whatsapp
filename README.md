@@ -23,8 +23,10 @@ integrantes:
 
 ![image](https://github.com/Javier-Santamaria/Bot-Whatsapp/assets/126354748/120a0586-ee38-4b2e-8f84-eae6d6ae51cd)
 
+*QR para activacion del BOT*
 ![image](https://github.com/Javier-Santamaria/Bot-Whatsapp/assets/126354748/03c90ca5-6c05-4aa2-8aab-555a577195d2)
 
+*Conversaciones del BOT*
 ![image](https://github.com/Javier-Santamaria/Bot-Whatsapp/assets/126354748/c4bad615-645c-449d-97ec-2221b8b40f1b)
 
 ![image](https://github.com/Javier-Santamaria/Bot-Whatsapp/assets/126354748/bf366ba9-c8ed-4223-b38d-d7158e64a83f)
