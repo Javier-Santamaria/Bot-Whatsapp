@@ -1,7 +1,10 @@
 # Bot-Whatsapp
 Nuestro Proyecto de bot de Whatsapp con respuestas predeterminadas: 
+
 Paso 1 : Instalar Node Js 
+
 Paso 2 : Abrir la terminal ,crear una carpeta y entrar
+
 Paso 3: Instalar qrcode-terminal
 
 ![image](https://github.com/Javier-Santamaria/Bot-Whatsapp/assets/126354748/416ceaa9-6ac4-4f35-96a9-8f2efe1ecf29)
