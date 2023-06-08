@@ -10,8 +10,15 @@ Paso 3: Instalar qrcode-terminal
 ![image](https://github.com/Javier-Santamaria/Bot-Whatsapp/assets/126354748/416ceaa9-6ac4-4f35-96a9-8f2efe1ecf29)
 
 
-integrantes: juan Carlos Lozano Javier SantaMaria Kevin Villena
+integrantes: 
 
+-juan Carlos Lozano 
+
+-Javier SantaMaria 
+
+-Kevin Villena
+
+*Pagina Web con QR para hablar con el BOT*
 ![image](https://github.com/Javier-Santamaria/Bot-Whatsapp/assets/126354748/5c3619f8-422b-4549-836a-d06bafbad7bb)
 
 ![image](https://github.com/Javier-Santamaria/Bot-Whatsapp/assets/126354748/120a0586-ee38-4b2e-8f84-eae6d6ae51cd)
