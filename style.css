@@ -1,0 +1,138 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background: linear-gradient(to right, #ff9900, #ff5500);
+    padding: 10px 0;
+    border-bottom: 1px solid #fff;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+
+.logo {
+    flex: 1;
+    text-align: left;
+}
+
+.logo img {
+    max-width: 300px;
+}
+
+nav {
+    flex: 1;
+    text-align: right;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-left: 30px;
+}
+
+nav ul li:first-child {
+    margin-left: 0;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+nav ul li a:hover {
+    color: #ffddaa;
+}
+
+nav ul li a.menu-link {
+    font-size: 22px;
+}
+
+main {
+    padding: 40px;
+}
+
+#title-section {
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+#title-section h1.main-title {
+    font-size: 56px;
+    font-family: "Arial Black", sans-serif;
+    margin-bottom: 10px;
+}
+
+#title-section h2 {
+    font-size: 28px;
+    font-family: "Arial", sans-serif;
+    margin-top: 0;
+    color: #888;
+}
+
+#menu-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.menu-item {
+    flex-basis: 30%;
+    margin-bottom: 40px;
+}
+
+.menu-item img {
+    width: 100%;
+    height: auto;
+}
+
+.menu-item h3 {
+    font-size: 24px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-family: "Arial Black", sans-serif;
+}
+
+.menu-item p {
+    font-size: 16px;
+    margin-top: 0;
+}
+
+.menu-item .price {
+    font-size: 20px;
+    font-weight: bold;
+    color: #ff5500;
+}
+
+#qr-section {
+    text-align: center;
+    margin-top: 80px;
+}
+
+#qr-code img {
+    width: 500px;
+    height: 500px;
+}
+
+
+footer {
+    background-color: #f8f8f8;
+    padding: 10px 0;
+    text-align: center;
+}
